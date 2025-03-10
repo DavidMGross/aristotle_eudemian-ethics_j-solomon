@@ -103,8 +103,8 @@
 		<itemref idref="book-1.xhtml"/>
 		<itemref idref="book-2.xhtml"/>
 		<itemref idref="book-3.xhtml"/>
-		<itemref idref="book-7.xhtml"/>
 		<itemref idref="books-4-6.xhtml"/>
+		<itemref idref="book-7.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>

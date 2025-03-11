@@ -38,7 +38,8 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">One of the primary sources available for the study of Aristotelian ethics.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/aristotle"&gt;Aristotle&lt;/a&gt; considers how we might best live our lives, and how we can know we have the right answer to that question. He determines that there is one goal we are all after, and the best way to achieve that goal is through activity that promotes and enacts human excellences. These excellences are the virtues: characteristic habits of acting in a well-chosen, moderate fashion, between the extremes of excess or deficiency that we are tempted to by the passions.&lt;/p&gt;
+			&lt;p&gt;Aristotle’s &lt;i&gt;Eudemian Ethics&lt;/i&gt; is less well-known today than his &lt;a href="https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters"&gt;&lt;i&gt;Nicomachean Ethics&lt;/i&gt;&lt;/a&gt;. The two works cover the same subject matter, but not quite in the same way. In particular, some of the virtues Aristotle discusses in this work are neglected in the &lt;i&gt;Nicomachean Ethics&lt;/i&gt;, and his discussion of how what we would today call “moral luck” affects ethical evaluation is absent in that work. Readers who are interested in Aristotelian ethics can get a “stereoscopic” view by viewing the subject through both the Eudemian and Nicomachean lenses.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/works0009aris"</dc:source>
@@ -48,7 +49,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aristotle_eudemian-ethics_j-solomon</meta>
 		<dc:creator id="author">Aristotle</dc:creator>
 		<meta property="file-as" refines="#author">Aristotle</meta>
-  		<meta property="alternate-script" refines="#author">Ἀριστοτέλης</meta>
+		<meta property="alternate-script" refines="#author">Ἀριστοτέλης</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aristotle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79004182</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -58,10 +59,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2023097742</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Alphonse Osbert</dc:contributor>
+		<meta property="file-as" refines="#artist">Osbert, Alphonse</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alphonse_Osbert</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">&gt;http://id.loc.gov/authorities/names/no80114828</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>

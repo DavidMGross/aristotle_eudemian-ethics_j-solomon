@@ -5,10 +5,6 @@
 			<code>m-045</code>
 			<reason>Linter seems to be flailing on the roman numerals.</reason>
 		</ignore>
-		<ignore>
-			<code>s-023</code>
-			<reason>Linter wants to titlecase a roman numeral.</reason>
-		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
 		<ignore>
